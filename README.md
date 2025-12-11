@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**saugustin14/saugustin14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Welcome to My GitHub
 
-Here are some ideas to get you started:
+Hi, I’m **Saugustin** — Im  an ethical hacker and programmer passionate about **JavaScript**, **Python**, and **Ruby**.  
+I love building secure applications, experimenting with vulnerabilities (for learning purposes), and sharing my knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Current Projects
+- 🔭 Currently building:  
+  - A **JavaScript Digital Clock** project  
+  - A **vulnerable API** for demonstrating XSS exploits (for educational purposes)
+
+- 🌱 Learning: **JavaScript**, **Python**, and **Ruby**
+
+- 👯 Open to collaborating on: **automated ethical hacking tools**
+
+- 🤔 Looking for guidance with: **Ruby projects**
+
+- 💬 Ask me about: anything tech — I love absorbing knowledge and sharing insights
+
+- 📫 Reach me on Instagram: [@neotek_ethical](https://instagram.com/neotek_ethical)
+
+- ⚡ Fun fact: I break things to make them stronger — hacking ethically is my way of learning
